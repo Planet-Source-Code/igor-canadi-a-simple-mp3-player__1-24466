@@ -1,0 +1,10 @@
+**************************
+** Mp3 player ************
+****** By: Igor Canadi ***
+**************************
+
+A tip:  Put the .exe file into the folder with *.mp3 files, or change the "File1.path". 
+
+Please send me upgrades. My e-mail: igor_canadi@hotmail.com
+
+
